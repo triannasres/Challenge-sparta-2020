@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Kelarin challenge Sparta",
+      "day": "10 Agustus 2021 - 23:59",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Belajar Angular lebih dalem",
+      "day": "11 Agustus 2021 - Seharian",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Lantik jadi Anggota HMIF",
+      "day": "12 Agustus 2021 - Belom tau kapan",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Abisin daily resin",
+      "day": "Everyday - 1 jam",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Jogging pagi",
+      "day": "Everyday - Pagi",
+      "reminder": true
+    },
+    {
+      "text": "Day 9 Sparta lesgo",
+      "day": "12 Agustus 2021 - Belom dikasih tau",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
